@@ -14,7 +14,8 @@ Welcome to one doorway of my digital realm – a fusion of code, creativity, and
 
 ## What am I currently up to? 🦎
 
-- [Ardea.io](https://ardea.io): My personal website, a gateway to my professional and creative endeavors (Last updated... probably too long ago).
+- [Ardea.io](https://ardea.io): My companie's website. Ardea is an applied artificial intelligence research agency whose focus is on creating artificial consciousness and leveraging AI tooling for the benefit of its members and all conscious beings in an ethical way.
+- [sinjhin.github.io](https://sinjhin.github.io): My personal website, a gateway to my professional and creative endeavors (Last updated... probably too long ago).
 - 🌐 [GitHub](https://github.com/Sinjhin/projects): If I am currently working on something public it, or a link to it, will probably be here.
 - 🤖 **AI Enthusiast**: Currently focused on GenAI, Platform Tooling, AR, and exploring the frontiers of AI research.
 
