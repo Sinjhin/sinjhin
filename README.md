@@ -10,7 +10,7 @@ Welcome to one doorway of my digital realm – a fusion of code, creativity, and
 - 📚 **Philosopher & Student of Life**: Always seeking new perspectives and wisdom in both the digital and physical world. Bagel and Hegel is a nice way to spend an evening.
 - 🌍 **Traveler**: Experiencing new cultures, ideas, and cuisines fuels my creativity and gives me perspective. 4/7 continents so far.
 - 🦸 **Wannabe Superhero**: (Or anti-hero?) Has an earnest desire to save the world ✔️
-- 💻 **Polyglot Programmer**: Fluent in JavaScript and rusty in most of them.
+- 💻 **Polyglot Programmer**: Fluent in JavaScript/Python and rusty in most of them.
 
 ## What am I currently up to? 🦎
 
