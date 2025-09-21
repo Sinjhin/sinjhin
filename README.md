@@ -2,9 +2,9 @@
 
 After 20+ years in tech, independently discovering (or stumbling into) genetic algorithms in high school (2005), and being absolutely fascinated by AI ever since; I'm finally taking the leap to start Ardea and build what I've always envisioned. What I believe AI should be.
 
-Evolutionary AI that genuinely augments human capability, forms, grows, mutates, and othogonally ideates. AI with a sensical underlying representation of the world. AI that extends rather than replaces you.
+Evolutionary AI that genuinely augments human capability, forms, grows, mutates, and orthogonally ideates. AI with a sensical underlying representation of the world. AI that extends rather than replaces you.
 
-The end goal however? It's lofty. Conciousness.
+The end goal however? It's lofty. Consciousness.
 
 About to start raising seed to make this vision real. If any of this resonates.. reach out, I'd love to connect.
 
